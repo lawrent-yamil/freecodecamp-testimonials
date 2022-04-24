@@ -1,12 +1,12 @@
 ## Before Starting
 ***
-install dependencies
+Install dependencies
 ```
 $ npm install
 ```
 
 ***
-Inicializate
+Start
 ```
 $ npm start
 ```

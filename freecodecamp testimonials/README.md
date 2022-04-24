@@ -1,7 +1,12 @@
-## Installation
+## Before Starting
 ***
-A little intro about the installation. 
+install dependencies
 ```
 $ npm install
+```
+
+***
+Inicializate
+```
 $ npm start
 ```
